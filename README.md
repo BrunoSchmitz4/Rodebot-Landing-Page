@@ -1,4 +1,7 @@
 # Landing-Page-Rodebot
+
+!! OBS: Este repositório é para fins didáticos e, uma versão atualizada está sendo produzida :)
+
 Com o intuito de realizar o projeto de extensão da matéria "Introdução ao Desenvolvimento de Software e Testes" do curso de Engenharia de Software da UDESC - SC (2023/2 - 1° semestre) - A ideia do projeto é um workshop de introdução ao desenvolvimento web (Front-End) para o grupo RodeBot da instituição E.E.B. Osvaldo Cruz (Rodeio - SC);
 
 Link do protótipo no Figma (apenas visualização): https://www.figma.com/file/TKkrsw7MwXLeV5rq6We5FI/Rodebots?type=design&t=S4obe4PhKahkhLwJ-6
